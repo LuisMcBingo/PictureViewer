@@ -61,7 +61,7 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 90F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(824, 464);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(954, 543);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // pictureBox1
@@ -71,14 +71,14 @@
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox1.Location = new System.Drawing.Point(3, 3);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(818, 411);
+            this.pictureBox1.Size = new System.Drawing.Size(948, 482);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(3, 420);
+            this.checkBox1.Location = new System.Drawing.Point(3, 491);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(58, 17);
             this.checkBox1.TabIndex = 1;
@@ -94,15 +94,15 @@
             this.flowLayoutPanel1.Controls.Add(this.closeButton);
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanel1.FlowDirection = System.Windows.Forms.FlowDirection.RightToLeft;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(126, 420);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(146, 491);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(695, 41);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(805, 49);
             this.flowLayoutPanel1.TabIndex = 2;
             // 
             // showButton
             // 
             this.showButton.AutoSize = true;
-            this.showButton.Location = new System.Drawing.Point(603, 3);
+            this.showButton.Location = new System.Drawing.Point(713, 3);
             this.showButton.Name = "showButton";
             this.showButton.Size = new System.Drawing.Size(89, 23);
             this.showButton.TabIndex = 0;
@@ -113,7 +113,7 @@
             // clearButton
             // 
             this.clearButton.AutoSize = true;
-            this.clearButton.Location = new System.Drawing.Point(515, 3);
+            this.clearButton.Location = new System.Drawing.Point(625, 3);
             this.clearButton.Name = "clearButton";
             this.clearButton.Size = new System.Drawing.Size(82, 23);
             this.clearButton.TabIndex = 1;
@@ -124,7 +124,7 @@
             // backgroundButton
             // 
             this.backgroundButton.AutoSize = true;
-            this.backgroundButton.Location = new System.Drawing.Point(371, 3);
+            this.backgroundButton.Location = new System.Drawing.Point(481, 3);
             this.backgroundButton.Name = "backgroundButton";
             this.backgroundButton.Size = new System.Drawing.Size(138, 23);
             this.backgroundButton.TabIndex = 2;
@@ -135,7 +135,7 @@
             // closeButton
             // 
             this.closeButton.AutoSize = true;
-            this.closeButton.Location = new System.Drawing.Point(290, 3);
+            this.closeButton.Location = new System.Drawing.Point(400, 3);
             this.closeButton.Name = "closeButton";
             this.closeButton.Size = new System.Drawing.Size(75, 23);
             this.closeButton.TabIndex = 3;
@@ -160,7 +160,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(824, 464);
+            this.ClientSize = new System.Drawing.Size(954, 543);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
             this.Text = "Visor de imágenes";
